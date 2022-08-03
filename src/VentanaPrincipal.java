@@ -70,7 +70,6 @@ public class VentanaPrincipal extends JFrame {
 	};
 	
 	public VentanaPrincipal() {
-		setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\MIS_PROGRAMAS\\Tateti-\\iconoTateti.png"));
 		setTitle("tateti");
 		setResizable(false);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
